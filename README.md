@@ -1,3 +1,9 @@
+<img width="408" alt="Counter" src="https://github.com/user-attachments/assets/61ea562a-bc7b-4dc1-ba35-29e66e8dd240">
+
+<img width="376" alt="incrementer" src="https://github.com/user-attachments/assets/27caede0-d977-42cd-a9f9-6810fd69fd40">
+<img width="380" alt="décrementer" src="https://github.com/user-attachments/assets/8c796049-623e-40ff-904f-ce69a0d5c135">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
